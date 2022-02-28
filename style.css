@@ -1,13 +1,13 @@
 body {
-    background-color: red;
+    background-color: #333;
 }
 .container {
 }
 h1{
-    font-size:76px;
+    font-size:56px;
     color:black;
 	font-family: Helvetica, sans-serif;
-    background-color: blue;
+    background-color: red;
     padding:37px;
     margin:60px;
     margin-top:220px;
